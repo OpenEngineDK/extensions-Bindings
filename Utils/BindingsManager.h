@@ -2,7 +2,7 @@
 #define _BINDINGS_MANAGER_H_
 
 #include <Logging/Logger.h>
-
+#include <typeinfo>
 #include <string>
 #include <map>
 
